@@ -1,8 +1,8 @@
 ### Hi everyone! :honeybee::smiley:
 
-I'm Niccolò Rocchi. I have a Bachelor Degree in in Mathematics and soon I will have a Master Degree in Data Science :dizzy:
+I'm Niccolò Rocchi. I have a Bachelor Degree in in Mathematics and soon I'll have a Master Degree in Data Science :dizzy:
 
-I like Machine and Deep Learning, Statistical Modeling, Big data Infrastructures and Data Visualization :part_alternation_mark:
+I like Machine and Deep Learning, Statistical Modeling, Big Data Infrastructures and Data Visualization :part_alternation_mark:
 
 I'm learning to use GitHub: so important when things get serious :sunglasses:
 
