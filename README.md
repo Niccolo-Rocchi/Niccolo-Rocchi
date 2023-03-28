@@ -10,6 +10,7 @@ I love to travel, study sciences and beekeeping :green_heart:
 
 Here's some programming information:
 - :zap: I use to program in Python or R
-- 🔭 I’m currently working on a Causal Discovery library and Data Science projects
-- 🌱 I’m currently learning the awesome Rust!
+- 🌱 I’m currently learning the awesome Rust
+- 🔭 I’m currently working on a Causal Discovery library in Rust and Data Science projects
+
 
