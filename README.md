@@ -1,16 +1,14 @@
 ### Hi everyone! :honeybee::smiley:
 
-I'm Niccolò Rocchi. I have a Bachelor Degree in in Mathematics and soon I'll have a Master Degree in Data Science :dizzy:
+I'm Niccolò. I have a Bachelor Degree in in Mathematics and I am having soon a Master Degree in Data Science :dizzy:
 
-I like Machine and Deep Learning, Statistical Modeling, Big Data Infrastructures and Data Visualization :part_alternation_mark:
+I love diving into Maths and Computer Science universes: fascinating as well as very dangerous! :astonished:
 
-I'm learning to use GitHub: so important when things get serious :sunglasses:
+"Every day that passes by, makes my love for you grow even stronger": this would be my mantra with Tux and Free Software :penguin: 
 
-I love to travel, study sciences and beekeeping :green_heart:
-
-Here's some programming information:
-- :zap: I use to program in Python or R
+Here's some of my GitHub information:
+- 🔭 I’m currently working on a Causal Discovery library and Data Science projects
 - 🌱 I’m currently learning the awesome Rust
-- 🔭 I’m currently working on a Causal Discovery library in Rust and Data Science projects
+- :zap: I commonly use to program in Python or R
 
-
+Remember me with these words: Travelling, Discovering and Beekeeping :green_heart:
