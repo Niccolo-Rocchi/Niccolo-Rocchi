@@ -1,6 +1,6 @@
 ### Hi everyone! :honeybee::smiley:
 
-I'm Niccolò. I have a Bachelor Degree in Mathematics and I am having soon a Master Degree in Data Science :dizzy:
+I'm Niccolò. I am a Data Scientist, but also having a Bachelor Degree in Mathematics! :dizzy:
 
 I love diving into Maths and Computer Science universes: fascinating as well as very dangerous! :astonished:
 
