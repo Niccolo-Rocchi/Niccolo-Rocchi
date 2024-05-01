@@ -1,12 +1,8 @@
 ### Hi everyone! :honeybee:
 
-I'm Niccolò, PhD Candidate in Computer Science at University of Milan-Bicocca. :dizzy:
+I'm Niccolò, PhD Candidate in Computer Science at the University of Milano-Bicocca. :dizzy:
 
-I love diving into Maths universe: fascinating as well as very dangerous! :astonished:
+My research focuses on Federated Causal Discovery. I commonly program in Python and R, occasionally in Rust. :books:
 
-"Every day that passes by, makes my love for you grow even stronger" :penguin: 
+*"Every day that passes by, makes my love for you grow even stronger"* :penguin: 
 
-Here it is a piece of my GitHub information:
-- 🔭 I’m currently working on Federated Causal Discovery
-- :zap: I commonly use to program in Python or R
-- 🌱 I’m learning the awesome Rust
